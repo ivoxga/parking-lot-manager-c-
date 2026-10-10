@@ -4,7 +4,7 @@ An object-oriented C++ system for managing parking lots. It records vehicle entr
 
 The design is built from small, reusable classes: dates, times and licence plates are classes of their own, and they are composed into entry/exit records, parking lots and a multi-lot manager.
 
-> Project developed for the course **Object-Oriented Programming**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2st year**.
+> Project developed for the course **Object-Oriented Programming**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2nd year**.
 
 ---
 
