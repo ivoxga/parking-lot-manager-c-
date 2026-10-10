@@ -1,0 +1,5 @@
+﻿  RegistoES.cpp
+C:\Users\Ivo Xavier\Desktop\TP2\RegistoES\RegistoES\RegistoES.cpp(77,37): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
+  RegistoESTeste.cpp
+  Gerando Código...
+  RegistoES.vcxproj -> C:\Users\Ivo Xavier\Desktop\TP2\RegistoES\x64\Debug\RegistoES.exe
