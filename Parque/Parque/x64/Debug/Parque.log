@@ -1,0 +1,14 @@
+﻿  Avenca.cpp
+  Data.cpp
+  DataHora.cpp
+D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\Parque\Parque\DataHora.cpp(29,21): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  Hora.cpp
+  Parque.cpp
+D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\Parque\Parque\Parque.cpp(202,39): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+  ParqueTeste.cpp
+  RegistoES.cpp
+D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\Parque\Parque\RegistoES.cpp(77,37): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
+  Viatura.cpp
+  Gerando Código...
+  LINK : D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\Parque\x64\Debug\Parque.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+  Parque.vcxproj -> D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\Parque\x64\Debug\Parque.exe
