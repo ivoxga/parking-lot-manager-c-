@@ -1,0 +1,15 @@
+﻿  Avenca.cpp
+  Data.cpp
+  DataHora.cpp
+D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\GestParq\GestParq\DataHora.cpp(29,21): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  GestParqTeste.cpp
+  GestParq.cpp
+  Hora.cpp
+  Parque.cpp
+D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\GestParq\GestParq\Parque.cpp(202,39): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+  RegistoES.cpp
+D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\GestParq\GestParq\RegistoES.cpp(77,37): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
+  Viatura.cpp
+  Gerando Código...
+  LINK : D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\GestParq\x64\Debug\GestParq.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+  GestParq.vcxproj -> D:\IPCA EEC\2º Ano\1º Semestre\Programação Orientada a Objetos\TP2\GestParq\x64\Debug\GestParq.exe
