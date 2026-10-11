@@ -6,7 +6,7 @@ The design is built from small, reusable classes: dates, times and licence plate
 
 > Project developed for the course **Object-Oriented Programming**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2nd year**.
 
----
+--- 
 
 ## Features
 
