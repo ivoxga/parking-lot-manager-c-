@@ -8,7 +8,7 @@ The design is built from small, reusable classes: dates, times and licence plate
 
 --- 
 
-## Features
+## Features 
 
 - Register vehicle **entry and exit** by licence plate, with date and time
 - Calculate the **amount to pay** based on parking time, handling stays within the same day and stays spanning several days
